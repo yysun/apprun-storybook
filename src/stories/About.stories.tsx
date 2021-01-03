@@ -1,4 +1,4 @@
-import About from '../dist/About';
+import About from '../About';
 
 export default {
   title: 'About',

@@ -1,4 +1,4 @@
-import Home from '../dist/Home';
+import Home from '../Home';
 
 export default {
   title: 'Home',
